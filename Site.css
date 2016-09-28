@@ -19,3 +19,8 @@ body {
 #bio a {
 	text-decoration: underline;
 }
+
+.modal {
+	color: black;
+	text-shadow: 0 0 0;
+}
